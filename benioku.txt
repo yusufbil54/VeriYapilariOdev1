@@ -1,0 +1,1 @@
+menü do while döngüsüyle yapılmıştır while içi true olduğu için klavyeden "e" bastığımızda çıkış yapmaktadır.
